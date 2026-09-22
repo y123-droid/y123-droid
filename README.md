@@ -1,17 +1,131 @@
-<h1 align="center">Hi 👋, I'm Yashvi</h1>
-<h3 align="center">Third year | Exploring Data Analytics | B.Tech Computer Science | Vellore Institute of Technology, Chennai</h3>
+# Hi, I'm Yashvi 👋
 
-- 🔭 I’m currently working on **Goodwill Clothing - cloud based affordable donating and shopping platform**
+### Data Engineering | Cloud | AI/ML
 
-- 🌱 I’m currently learning **data analytics - google professional certificate(coursera)**
+I'm a Computer Science undergraduate at VIT Chennai, interested in building reliable data pipelines, working with cloud technologies, and turning raw data into useful insights.
 
-- 👯 I’m looking to collaborate on **data science projects**
+I enjoy understanding the complete journey of data — from collection and processing to analysis, recommendation systems, and visualization. My internship as a Data Engineer at OZi gave me hands-on experience working with Python, SQL, BigQuery, data profiling, recommendation workflows, search optimization, and data quality.
 
-- 📫 How to reach me **diyayashvi.006@gmail.com**
+I'm currently exploring Data Engineering, Cloud Data Platforms, Distributed Data Processing, and ML-driven applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- C++
+- Java
+- SQL
+
+**Data & Analytics**
+- Pandas
+- NumPy
+- Power BI
+- Excel
+- ETL
+- Data Cleaning & Validation
+- Data Analysis
+
+**Cloud & Data Engineering**
+- AWS
+- Google Cloud / BigQuery
+- Firebase
+- Terraform
+- CI/CD
+- Git & GitHub
+
+**Machine Learning**
+- Scikit-learn
+- PyTorch
+- Qiskit
+- ResNet
+- Machine Learning
+
+---
+
+## 💼 Experience
+
+### Data Engineer Intern — OZi Technologies
+**May 2026 – July 2026**
+
+- Worked with Python, SQL and Google BigQuery for data extraction, transformation, validation and profiling.
+- Developed recommendation-related workflows involving quality, recency and price-sensitivity scoring.
+- Improved search relevance using synonym mapping, topic expansion and metadata enrichment.
+- Validated search results using Pandas-based golden queries and resolved 400+ problematic search queries.
+- Worked with Git-based development and collaborative data workflows.
+
+---
+
+## 🚀 Projects
+
+### ☁️ SmartCloud FinOps
+**Multi-Cloud Cost Optimization using Hybrid ML**
+
+A cloud cost optimization platform designed to analyze and compare cloud workloads across AWS, Azure and GCP.
+
+**Tech:** Python • AWS • Azure • GCP • Terraform • Machine Learning • ETL
+
+🏆 Best Paper Award — ICSCPS 2026  
+📖 Published as a Springer book chapter
+
+---
+
+### ⚛️ Variational Quantum Classifiers
+**An Optimal Evaluation of Entanglement Depth in Variational Quantum Classifiers**
+
+Built a hybrid quantum-classical ML pipeline using ResNet-18 feature extraction and 8-qubit Variational Quantum Classifiers for medical-waste image classification.
+
+Compared different entanglement depths and benchmarked VQCs against Logistic Regression, SVM and MLP.
+
+**Tech:** Python • PyTorch • Qiskit • Qiskit Aer • ResNet-18 • Machine Learning
+
+📖 Published in IEEE Xplore
+
+---
+
+### 👕 Goodwill Clothing
+**Cloud-Based Donation & Marketplace Platform**
+
+A cloud-based platform connecting donors, buyers, NGOs and administrators through donation and marketplace workflows.
+
+**Tech:** Next.js • React • TypeScript • Firebase • Firestore • Vercel
+
+---
+
+## 📚 Research & Publications
+
+- **SmartCloud FinOps: A Hybrid Rule–Machine Learning Framework for Multi-Cloud Cost Optimization and Deployment Orchestration** — Springer
+- **An Optimal Evaluation of Entanglement Depth in Variational Quantum Classifiers** — IEEE Xplore
+
+---
+
+## 🏅 Certifications
+
+- AWS Solutions Architect – Associate
+- Google Data Analytics — Coursera
+- Generative AI — IBM
+- DSA Essentials using C++ — Udemy
+- Data Privacy Fundamentals — Coursera
+
+---
+
+## 🌱 Currently Learning
+
+- Apache Spark & PySpark
+- Data Engineering & Distributed Systems
+- Cloud Data Architectures
+- Data Pipelines & Orchestration
+- Machine Learning
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [Yashvi Diya Singh](https://www.linkedin.com/in/yashvi-diya-singh-68b27b290)
+- GitHub: [@y123-droid](https://github.com/y123-droid)
+- Email: diyayashvi.006@gmail.com
+
+---
+
+> "Build it. Understand it. Improve it."
